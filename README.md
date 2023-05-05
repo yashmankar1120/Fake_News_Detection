@@ -1,1 +1,1 @@
-# Fake_News_Minor_Project
+# Fake_News_Detection_Minor_Project
