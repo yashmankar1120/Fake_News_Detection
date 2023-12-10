@@ -4,4 +4,4 @@ This was our minor project in third year of college. It was a fun project , we t
 
 
 
-Group Members: Yash Mankar, Vedanshu Thune, Shrikant Khawshe, Yogvid Wankhede
+Group Members: Yash Mankar, Vedanshu Thune, Shrikant Khawshe, Yogvid Wankhede.
